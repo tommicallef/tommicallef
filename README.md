@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tezk
 - 👀 Studying Computer Science
 - 🌱 Focusing on Java development
-- 📫 Reach me via discord tezk#1198
 - 💞️ Kriya Yogi & consciousness enthusiast
 
 <!---
