@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tezk (Tom Micallef)
-- 👀 Studying a Bachelor of Computer Science (Charles Sturt University)
+- 👀 Studying a Bachelor of Computer Science (Charles Sturt University, 2021-2023)
 - 🌱 Proficient in Java. Entry-level understanding in Python, SQL, Git, CSS, and HTML.
 - 💞️ A love for philosophy, psychology, and tech!
 <!---
