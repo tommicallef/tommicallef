@@ -12,8 +12,5 @@ HTML | CSS | JavaScript | Java
 - [scoreboard](https://github.com/tommicallef/scoreboard)
 - [counter](https://github.com/tommicallef/counter)
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/tommicallef)
-
 ## 🔍 Open to Opportunities
 Seeking full-time opportunities in front-end web development. Open to internships for the right opportunity.
