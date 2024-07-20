@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Tom!
 
 ## 👨‍🎓 About Me
-- Final year Computer Science student @ Charles Sturt University
-- Dean's Award recipient with High Distinctions in multiple subjects
-- Passionate about front-end web development
-- Enhancing skills through [Scrimba's front-end developer career path](https://v2.scrimba.com/home)
+- Final year Computer Science student @ Charles Sturt University<br>
+- [Dean's Award recipient with High Distinctions in multiple subjects](https://www.linkedin.com/in/tommicallef/)<br>
+- Completing [Scrimba's front-end web developer career path](https://v2.scrimba.com/home)<br>
 
 ## 🛠️ Skills
 - HTML
