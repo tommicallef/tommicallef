@@ -6,7 +6,10 @@
 - Dean's Award recipient with High Distinctions in multiple subjects
 
 ## 🛠️ Skills
-HTML | CSS | JavaScript | Java
+- HTML
+- CSS
+- JavaScript
+- Java
 
 ## 🚀 Recent Projects
 - [scoreboard](https://github.com/tommicallef/scoreboard)
