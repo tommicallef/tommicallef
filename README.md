@@ -4,6 +4,7 @@
 - Final year Computer Science student @ Charles Sturt University
 - Passionate about front-end web development
 - Dean's Award recipient with High Distinctions in multiple subjects
+- Enhancing skills through [Scrimba's front-end developer career path](https://v2.scrimba.com/home)
 
 ## 🛠️ Skills
 - HTML
