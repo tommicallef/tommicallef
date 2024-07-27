@@ -3,6 +3,7 @@
 ## 👨‍🎓 About Me
 - Final year Computer Science student @ Charles Sturt University<br>
 - [Dean's Award recipient with High Distinctions in multiple subjects](https://www.linkedin.com/in/tommicallef/)<br>
+- IT Manager @ Australian Apitherapy Association
 - Completing [Scrimba's front-end web developer career path](https://v2.scrimba.com/home)<br>
 
 ## 🛠️ Skills
