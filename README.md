@@ -13,6 +13,7 @@
 - Java
 
 ## 📂 Recent Projects
+- [password-generator](https://github.com/tommicallef/password-generator)
 - [scoreboard](https://github.com/tommicallef/scoreboard)
 - [counter](https://github.com/tommicallef/counter)
 - [bm-home-page](https://github.com/tommicallef/bm-home-page)
