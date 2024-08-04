@@ -13,6 +13,7 @@
 - Java
 
 ## 📂 Recent Projects
+- [metric-imperial-converter](https://github.com/tommicallef/metric-imperial-converter)
 - [password-generator](https://github.com/tommicallef/password-generator)
 - [scoreboard](https://github.com/tommicallef/scoreboard)
 - [counter](https://github.com/tommicallef/counter)
