@@ -13,11 +13,8 @@
 - Java
 
 ## 📂 Recent Projects
+- [personal-website](https://github.com/tommicallef/personal-website)
 - [metric-imperial-converter](https://github.com/tommicallef/metric-imperial-converter)
-- [password-generator](https://github.com/tommicallef/password-generator)
-- [scoreboard](https://github.com/tommicallef/scoreboard)
-- [counter](https://github.com/tommicallef/counter)
-- [bm-home-page](https://github.com/tommicallef/bm-home-page)
 
 ## 🖥️ Open to Work
 Seeking full-time positions in front-end web development. Open to internships for the right opportunity.
