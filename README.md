@@ -14,6 +14,3 @@
 - [personal-website](https://github.com/tommicallef/personal-website)
 - [password-generator](https://github.com/tommicallef/password-generator)
 - [metric-imperial-converter](https://github.com/tommicallef/metric-imperial-converter)
-
-## 🖥️ Open to Work
-Seeking full-time positions in front-end web development. Open to internships for the right opportunity.
